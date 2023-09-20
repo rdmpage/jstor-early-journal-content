@@ -10,3 +10,5 @@ To generate a list of files use -t flag:
  tar -tvf bundle.tar > files.txt
 
 The file files.txt now contains a list of all files in the bundle folder, and can then be parsed to access each file individually.
+
+Note that the Data Bundle is also on Internet Archive as [jstor_ejc_data_bundle](https://archive.org/details/jstor_ejc_data_bundle).
